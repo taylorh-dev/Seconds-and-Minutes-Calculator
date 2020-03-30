@@ -3,6 +3,6 @@
 Contains two methods: One method takes minutes and seconds as parameters, the other takes only seconds.
 
 Project to-do's: <br>
-<t>*Add message to prompt user input <br>
-<t>*State method parameters to guide inputs 
+* Add message to prompt user input <br>
+* State method parameters to guide inputs 
   
