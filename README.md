@@ -4,5 +4,5 @@ Contains two methods: One method takes minutes and seconds as parameters, the ot
 
 Project to-do's: 
   -Add message to prompt user input
-  -State method parameters to guide inputs
+  -State method parameters to guide inputs 
   
